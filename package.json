@@ -1,0 +1,23 @@
+{
+  "name": "fireworks-night",
+  "displayName": "Fireworks Night",
+  "description": "A dark (black) theme with bright colors and good contrast. Customized for web development (HTML/CSS/JS/PHP).",
+  "version": "1.0.0",
+	"icon": "icon.png",
+	"publisher": "chicorykvass",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fireworks Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fireworks Night-color-theme.json"
+      }
+    ]
+  }
+}
