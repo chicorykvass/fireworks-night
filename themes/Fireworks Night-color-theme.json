@@ -64,7 +64,8 @@
     "statusBar.foreground": "#9da5b4",
     "statusBar.noFolderBackground": "#000000",
     "statusBarItem.hoverBackground": "#2c313a",
-    "tab.activeBackground": "#000000",
+    "tab.activeBackground": "#20458f25",
+    "tab.activeBorderTop": "#20458fc4",
     "tab.border": "#000000",
     "tab.inactiveBackground": "#000000",
     "terminal.ansiBlack": "#2d3139",
@@ -896,13 +897,13 @@
     {
       "scope": "support.constant.property-value.scss,support.constant.property-value.css",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
       "scope": "support.constant.color.w3c-standard-color-name.css,support.constant.color.w3c-standard-color-name.scss",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
@@ -914,7 +915,7 @@
     {
       "scope": "support.constant.color.w3c-standard-color-name.css",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
@@ -950,7 +951,7 @@
     {
       "scope": "support.constant.json",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
@@ -968,7 +969,7 @@
     {
       "scope": "support.variable.property.process",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
@@ -1028,7 +1029,7 @@
     {
       "scope": "variable.parameter.function.language.python",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
@@ -1172,7 +1173,7 @@
     {
       "scope": "control.elements, keyword.operator.less",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
@@ -1226,7 +1227,7 @@
     {
       "scope": "support.constant.font-name",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
@@ -1250,31 +1251,31 @@
     {
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
       "scope": "none",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
       "scope": "none",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
       "scope": "constant",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
       "scope": "punctuation.definition.constant",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
@@ -1286,7 +1287,7 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
@@ -1299,7 +1300,7 @@
     {
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "foreground": "#D8985F",
+        "foreground": "#FF9100",
         "fontStyle": "bold"
       }
     },
@@ -1331,13 +1332,13 @@
     {
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
       "scope": "markup.bold,todo.bold",
       "settings": {
-        "foreground": "#D8985F",
+        "foreground": "#FF9100",
         "fontStyle": "bold"
       }
     },
@@ -1380,7 +1381,7 @@
     {
       "scope": "punctuation.definition.bold.markdown",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
@@ -1591,7 +1592,7 @@
     {
       "scope": "support.constant.ext.php,support.constant.std.php,support.constant.core.php,support.constant.parser-token.php",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
@@ -1645,7 +1646,7 @@
     {
       "scope": "function.parameter",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
@@ -1675,13 +1676,13 @@
     {
       "scope": "inline-color-decoration rgb-value",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
       "scope": "less rgb-value",
       "settings": {
-        "foreground": "#D8985F"
+        "foreground": "#FF9100"
       }
     },
     {
@@ -1865,7 +1866,7 @@
         "constant.character.entity.named.copy.html"
       ],
       "settings": {
-        "foreground": "#FF9900"
+        "foreground": "#FF9100"
       }
     },
     {
