@@ -3,8 +3,8 @@
 This theme was created because none of the ones I tried was quite to my liking.
 
 ## Screenshots
-![screen1](https://github.com/user-attachments/assets/e3abbfed-0480-45d3-beae-dbd29d8b303f)
-![screen2](https://github.com/user-attachments/assets/1d7197f9-de6c-4f2b-b9c1-5902b1bd1eba)
-![screen3](https://github.com/user-attachments/assets/9f747439-9870-4ada-9170-1d5f7716015f)
+![screen1](https://github.com/user-attachments/assets/95f70965-a908-4290-b0ca-f55a941c448e)
+![screen2](https://github.com/user-attachments/assets/fe898527-8fca-49fd-9e4e-3edb53a8b6cc)
+![screen3](https://github.com/user-attachments/assets/d0a3339c-c7ad-45ff-904f-e259d2c9de4e)
 
 **Enjoy!**
