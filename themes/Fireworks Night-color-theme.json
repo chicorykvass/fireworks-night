@@ -788,19 +788,19 @@
     {
       "scope": "markup.deleted.diff",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
       "scope": "meta.function.c",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
       "scope": "keyword.control.cpp",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#AAB1C0"
       }
     },
     {
@@ -830,7 +830,7 @@
     {
       "scope": "support.constant.math",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#AAB1C0"
       }
     },
     {
@@ -842,19 +842,19 @@
     {
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#AAB1C0"
       }
     },
     {
       "scope": "storage.type.annotation.java",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#AAB1C0"
       }
     },
     {
       "scope": "source.java",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
@@ -872,13 +872,13 @@
     {
       "scope": "storage.modifier.import.java,storage.type.java",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#AAB1C0"
       }
     },
     {
       "scope": "meta.definition.variable.name.java",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
@@ -926,19 +926,19 @@
     {
       "scope": "punctuation.definition.template-expression.begin,punctuation.definition.template-expression.end",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
       "scope": "support.module.node,support.type.object.module",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#AAB1C0"
       }
     },
     {
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
@@ -962,7 +962,7 @@
     {
       "scope": "support.type.object.console",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
@@ -992,7 +992,7 @@
     {
       "scope": "support.variable.dom,support.variable.property.dom",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
@@ -1100,7 +1100,7 @@
     {
       "scope": "variable",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
@@ -1112,7 +1112,7 @@
     {
       "scope": "import.storage.java",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#AAB1C0"
       }
     },
     {
@@ -1136,19 +1136,19 @@
     {
       "scope": "entity.name.type.namespace",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#F21D1D"
       }
     },
     {
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#00FF37"
       }
     },
     {
       "scope": "entity.name.class.identifier.namespace.type",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#F21D1D"
       }
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#FFCE2F"
       }
     },
     {
@@ -1182,7 +1182,7 @@
       }
     },
     {
-      "scope": "storage",
+      "scope": "storage, source.js storage.type",
       "settings": {
         "foreground": "#D55FDE"
       }
@@ -1202,7 +1202,7 @@
     {
       "scope": "token.storage.type.java",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#AAB1C0"
       }
     },
     {
@@ -1280,7 +1280,7 @@
     {
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
@@ -1318,7 +1318,7 @@
     {
       "scope": "markup.heading",
       "settings": {
-        "foreground": "#EF596F",
+        "foreground": "#FF1289",
         "fontStyle": "bold"
       }
     },
@@ -1344,7 +1344,7 @@
     {
       "scope": "punctuation.definition.bold",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#AAB1C0"
       }
     },
     {
@@ -1362,13 +1362,13 @@
     {
       "scope": "entity.name.section.markdown",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
       "scope": "punctuation.definition.heading.markdown",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
@@ -1398,7 +1398,7 @@
     {
       "scope": "beginning.punctuation.definition.list.markdown",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
@@ -1489,13 +1489,13 @@
     {
       "scope": "source.json meta.structure.dictionary.json > string.quoted.json",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
       "scope": "source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
@@ -1513,13 +1513,13 @@
     {
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
       "scope": "support.type.property-name.json punctuation",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
@@ -1537,7 +1537,7 @@
     {
       "scope": "support.other.namespace.use.php,support.other.namespace.use-as.php,support.other.namespace.php",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#AAB1C0"
       }
     },
     {
@@ -1573,7 +1573,7 @@
     {
       "scope": "storage.type.php,meta.other.type.phpdoc.php,keyword.other.type.php,keyword.other.array.phpdoc.php",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#AAB1C0"
       }
     },
     {
@@ -1621,7 +1621,7 @@
     {
       "scope": "punctuation.definition.variable.php",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
@@ -1687,20 +1687,20 @@
     {
       "scope": "selector.sass",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
       "scope": "var.this,variable.language.this.js,variable.language.this.ts,variable.language.this.jsx,variable.language.this.tsx",
       "settings": {
-        "foreground": "#E5C07B",
+        "foreground": "#AAB1C0",
         "fontStyle": "italic"
       }
     },
     {
       "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#AAB1C0"
       }
     },
     {
@@ -1712,7 +1712,7 @@
     {
       "scope": "entity.name.variable.local.cs",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#FF1289"
       }
     },
     {
@@ -1742,7 +1742,7 @@
     {
       "scope": "storage.type.cs",
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#AAB1C0"
       }
     },
     {
@@ -1816,8 +1816,7 @@
         "entity.name.tag.html",
         "source.css entity.name.tag",
         "entity.other.attribute-name.class.css",
-        "entity.other.attribute-name.id.css",
-        "source.js storage.type"
+        "entity.other.attribute-name.id.css"
       ],
       "settings": {
         "foreground": "#FF0077"
@@ -1851,7 +1850,7 @@
         "meta.object-literal.key.js"
       ],
       "settings": {
-        "foreground": "#FF7171"
+        "foreground": "#FF1289"
       }
     },
     {
