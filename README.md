@@ -2,17 +2,9 @@
 
 This theme was created because none of the ones I tried was quite to my liking.
 
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+##Screenshots
+![screen1](https://github.com/user-attachments/assets/e3abbfed-0480-45d3-beae-dbd29d8b303f)
+![screen2](https://github.com/user-attachments/assets/1d7197f9-de6c-4f2b-b9c1-5902b1bd1eba)
+![screen3](https://github.com/user-attachments/assets/9f747439-9870-4ada-9170-1d5f7716015f)
 
 **Enjoy!**
