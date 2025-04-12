@@ -2,7 +2,7 @@
   "name": "fireworks-night",
   "displayName": "Fireworks Night",
   "description": "A dark (black) theme with bright colors and good contrast. Customized for web development (HTML/CSS/JS/PHP).",
-  "version": "1.0.2",
+  "version": "1.0.3",
 	"icon": "icon.png",
 	"publisher": "chicorykvass",
   "engines": {

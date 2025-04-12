@@ -1538,7 +1538,7 @@
     {
       "scope": "support.other.namespace.use.php,support.other.namespace.use-as.php,support.other.namespace.php",
       "settings": {
-        "foreground": "#AAB1C0"
+        "foreground": "#F21D1D"
       }
     },
     {
