@@ -2,8 +2,13 @@
   "name": "fireworks-night",
   "displayName": "Fireworks Night",
   "description": "A dark (black) theme with bright colors and good contrast. Customized for web development (HTML/CSS/JS/PHP).",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/chicorykvass/fireworks-night"
+    },
   "version": "1.0.3",
 	"icon": "icon.png",
+  "license": "GPL-3.0",
 	"publisher": "chicorykvass",
   "engines": {
     "vscode": "^1.95.0"
