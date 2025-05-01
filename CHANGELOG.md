@@ -1,9 +1,4 @@
-# Change Log
+### 1.0.4 (2025-05-01)
 
-All notable changes to the "fireworks-night" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Added borders
+- Various color tweaks

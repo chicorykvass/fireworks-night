@@ -4,6 +4,7 @@
   "colors": {
     "activityBar.background": "#000000",
     "activityBar.foreground": "#d7dae0",
+    "activityBar.border": "#9da5b433",
     "activityBarBadge.background": "#4d78cc",
     "activityBarBadge.foreground": "#f8fafd",
     "badge.background": "#282c34",
@@ -28,7 +29,7 @@
     "editorBracketHighlight.foreground6": "#19f9d8",
     "editorCursor.foreground": "#fbff00",
     "editorError.foreground": "#c24038",
-    "editorGroup.border": "#181a1f",
+    "editorGroup.border": "#9da5b433",
     "editorGroupHeader.tabsBackground": "#000000",
     "editorHoverWidget.background": "#000000",
     "editorHoverWidget.border": "#181a1f",
@@ -58,6 +59,7 @@
     "scrollbarSlider.background": "#4e566680",
     "scrollbarSlider.hoverBackground": "#5a637580",
     "sideBar.background": "#000000",
+    "sideBar.border": "#9da5b433",
     "sideBarSectionHeader.background": "#282c34",
     "statusBar.background": "#000000",
     "statusBar.debuggingBackground": "#000000",
@@ -66,7 +68,6 @@
     "statusBarItem.hoverBackground": "#2c313a",
     "tab.activeBackground": "#326de225",
     "tab.activeBorderTop": "#326de2f5",
-    "tab.border": "#000000",
     "tab.inactiveBackground": "#000000",
     "terminal.ansiBlack": "#2d3139",
     "terminal.ansiBlue": "#2e8ccf",
@@ -77,6 +78,7 @@
     "titleBar.activeForeground": "#9da5b4",
     "titleBar.inactiveBackground": "#000000",
     "titleBar.inactiveForeground": "#6b717d",
+    "titleBar.border": "#9da5b433",
     "actionBar.toggledBackground": "#007fd466",
     "activityBar.activeBorder": "#d7dae0",
     "activityBar.dropBorder": "#d7dae0",
@@ -94,7 +96,7 @@
     "banner.foreground": "#d7dae0",
     "banner.iconForeground": "#3794ff",
     "breadcrumb.activeSelectionForeground": "#e0e0e0",
-    "breadcrumb.background": "#000000",
+    "breadcrumb.background": "#7f00d428",
     "breadcrumb.focusForeground": "#e0e0e0",
     "breadcrumb.foreground": "#cccccccc",
     "breadcrumbPicker.background": "#21252b",
@@ -328,7 +330,7 @@
     "extensionIcon.sponsorForeground": "#d758b3",
     "extensionIcon.starForeground": "#ff8e00",
     "extensionIcon.verifiedForeground": "#3794ff",
-    "focusBorder": "#007fd4",
+    "focusBorder": "#326de2f5",
     "foreground": "#cccccc",
     "gauge.background": "#007acc",
     "gauge.errorBackground": "#be1100",
@@ -412,6 +414,7 @@
     "listFilterWidget.shadow": "#0000005c",
     "menu.background": "#000000",
     "menu.foreground": "#f0f0f0",
+    "menu.border": "#9da5b433",
     "menu.selectionBackground": "#2c313a",
     "menu.selectionForeground": "#d7dae0",
     "menu.separatorBackground": "#606060",
@@ -1574,7 +1577,7 @@
     {
       "scope": "storage.type.php,meta.other.type.phpdoc.php,keyword.other.type.php,keyword.other.array.phpdoc.php",
       "settings": {
-        "foreground": "#AAB1C0"
+        "foreground": "#D55FDE"
       }
     },
     {
